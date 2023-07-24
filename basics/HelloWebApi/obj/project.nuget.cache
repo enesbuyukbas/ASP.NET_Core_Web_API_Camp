@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "wwXf1eZLrrsDv7DvUXCUU6CjgyiLkDHr/xxhbxGXQz2aNhqgCsXVdZGlZBCRXQbuTxus8uK617j5/qcB75aZPg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Lenovo\\Desktop\\MY PROJECTS\\aspnet\\WEBAPI\\basics\\HelloWebApi\\HelloWebApi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Lenovo\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.5.0\\swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "C:\\Users\\Lenovo\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.5.0\\swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "C:\\Users\\Lenovo\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.5.0\\swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
